@@ -65,4 +65,30 @@ Super Fractal Theory  Machine Learning with R+Rust & AI（Web,CLI,API）
 ### 图片：Rplot_CantorSet.png
 ![康托尔集](https://github.com/mydaisg/SuperFractalTheory/blob/main/Rplot_CantorSet.png "Cantor Set")
 
+## 13、分形树 (Fractal Tree)
+### 代码：13_FractalTree.R
+### 图片：Rplot_FractalTree.png
+![Fractal Tree](https://github.com/mydaisg/SuperFractalTheory/blob/main/Rplot_FractalTree.png "Fractal Tree")
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 

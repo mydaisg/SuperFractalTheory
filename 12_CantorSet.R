@@ -24,7 +24,7 @@ cantor_set <- function(start, end, depth, max_depth, y_level) {
 
 # 绘制康托尔集
 draw_cantor_set <- function(depth = 5) {
-  plot(0, 0, type = "n", xlim = c(0, 1), ylim = c(0, 1),
+  plot(0, 0, type = "n", xlim = c(0, 1), ylim = c(0, 1),col="darkgreen",
        xlab = "", ylab = "", main = paste("Cantor Set - Depth", depth))
   cantor_set(0, 1, 0, depth, 0.9)
 }
