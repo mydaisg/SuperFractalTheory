@@ -6,6 +6,7 @@ Super Fractal Theory  Machine Learning with R+Rust & AI（Web,CLI,API）
 ## 1、曼德勃罗集 (Mandelbrot Set)
 ### 代码：1_MandelbrotSet.R
 ### 图片：Rplot_MandelbrotSet.png
+![曼德勃罗集](https://github.com/mydaisg/SuperFractalTheory/blob/main/Rplot_MandelbrotSet.png "MandelbrotSet")
 
 ## 2、朱利亚集 (Julia Set)
 ### 代码：2_JuliaSet.R
