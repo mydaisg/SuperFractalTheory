@@ -70,6 +70,10 @@ Super Fractal Theory  Machine Learning with R+Rust & AI（Web,CLI,API）
 ### 图片：Rplot_FractalTree.png
 ![Fractal Tree](https://github.com/mydaisg/SuperFractalTheory/blob/main/Rplot_FractalTree.png "Fractal Tree")
 
+## 14、龙形曲线 (Dragon Curve)
+### 代码：14_DragonCurve.R
+### 图片：Rplot_DragonCurve.png
+![Dragon Curve](https://github.com/mydaisg/SuperFractalTheory/blob/main/Rplot_DragonCurve.png "Dragon Curve")
 
 
 
