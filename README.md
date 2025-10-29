@@ -50,7 +50,7 @@ Super Fractal Theory  Machine Learning with R+Rust & AI（Web,CLI,API）
 ![谢尔宾斯基三角形 (Sierpinski Triangle) 递归法](https://github.com/mydaisg/SuperFractalTheory/blob/main/Rplot_SierpinskiTriangle_recursive.png "Sierpinski Triangle")
 
 ## 10、谢尔宾斯基三角形 (Sierpinski Triangle) 混沌法
-### 代码：9_Sierpinski_Chaos.R
+### 代码：10_Sierpinski_Chaos.R
 ### 图片：Rplot_Sierpinski_Chaos.png
 ![谢尔宾斯基三角形 (Sierpinski Triangle) 混沌法](https://github.com/mydaisg/SuperFractalTheory/blob/main/Rplot_Sierpinski_Chaos.png "Sierpinski Chaos")
 ### chaos 美[ˈkeɪˌɑs],英[ˈkeɪɒs],n.混乱;杂乱;紊乱;网络释义:混沌;浑沌;乱战.
