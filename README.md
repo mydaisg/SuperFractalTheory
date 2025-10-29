@@ -22,3 +22,8 @@ Super Fractal Theory  Machine Learning with R+Rust & AI（Web,CLI,API）
 ### 代码：4_LSystem.R
 ### 图片：Rplot_LSystem.png
 ![LSystem](https://github.com/mydaisg/SuperFractalTheory/blob/main/Rplot_LSystem.png "LSystem")
+
+## 5、盒计数法计算分形维数(Box Counting)
+### 代码：5_BoxCounting.R
+### 图片：Rplot_BoxCounting.png
+![BoxCounting](https://github.com/mydaisg/SuperFractalTheory/blob/main/Rplot_BoxCounting.png "BoxCounting")
