@@ -12,3 +12,8 @@ Super Fractal Theory  Machine Learning with R+Rust & AI（Web,CLI,API）
 ### 代码：2_JuliaSet.R
 ### 图片：Rplot_JuliaSet.png
 ![朱利亚集](https://github.com/mydaisg/SuperFractalTheory/blob/main/Rplot_JuliaSet.png "Julia Set")
+
+## 3、迭代函数系统 (IFS) 蕨类植物分形
+### 代码：3_FernIFS.R
+### 图片：Rplot_FernIFS.png
+![蕨类植物分形](https://github.com/mydaisg/SuperFractalTheory/blob/main/Rplot_FernIFS.png "FernIFS")
