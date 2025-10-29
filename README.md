@@ -1,3 +1,12 @@
 # SuperFractalTheory
 Super Fractal Theory  Machine Learning with R+Rust & AI（Web,CLI,API）
 基于R&Rust编程语言的分形理论算法，用于机器学习和AI领域。
+
+
+##1、曼德勃罗集 (Mandelbrot Set)
+###代码：1_MandelbrotSet.R
+###图片：Rplot_MandelbrotSet.png
+
+##2、朱利亚集 (Julia Set)
+###代码：2_JuliaSet.R
+###图片：Rplot_JuliaSet.png
