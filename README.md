@@ -33,3 +33,20 @@ Super Fractal Theory  Machine Learning with R+Rust & AI（Web,CLI,API）
 ### 代码：1_MandelbrotSet_ggplot.R
 ### 图片：Rplot_MandelbrotSet_ggplot2.png
 ![曼德勃罗集 ggplot](https://github.com/mydaisg/SuperFractalTheory/blob/main/Rplot_MandelbrotSet_ggplot2.png "Mandelbrot Set ggplot")
+
+## 7、科赫曲线 (Koch Curve) 递归法
+### 代码：7_KochCurve_recursive.R
+### 图片：Rplot_KochCurve_recursive.png
+![科赫曲线 (Koch Curve) 递归法](https://github.com/mydaisg/SuperFractalTheory/blob/main/Rplot_KochCurve_recursive.png "Koch Curve")
+
+
+
+
+
+
+
+
+
+
+
+
