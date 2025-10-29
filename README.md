@@ -44,7 +44,10 @@ Super Fractal Theory  Machine Learning with R+Rust & AI（Web,CLI,API）
 ### 图片：Rplot_KochCurve_iterative.png
 ![科赫曲线 (Koch Curve) 迭代法](https://github.com/mydaisg/SuperFractalTheory/blob/main/Rplot_KochCurve_iterative.png "Koch Curve")
 
-
+## 9、谢尔宾斯基三角形 (Sierpinski Triangle) 递归法
+### 代码：9_SierpinskiTriangle_recursive.R
+### 图片：Rplot_SierpinskiTriangle_recursive.png
+![谢尔宾斯基三角形 (Sierpinski Triangle) 递归法](https://github.com/mydaisg/SuperFractalTheory/blob/main/Rplot_SierpinskiTriangle_recursive.png "Sierpinski Triangle")
 
 
 
