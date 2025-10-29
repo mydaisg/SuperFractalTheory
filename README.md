@@ -17,3 +17,8 @@ Super Fractal Theory  Machine Learning with R+Rust & AI（Web,CLI,API）
 ### 代码：3_FernIFS.R
 ### 图片：Rplot_FernIFS.png
 ![蕨类植物分形](https://github.com/mydaisg/SuperFractalTheory/blob/main/Rplot_FernIFS.png "FernIFS")
+
+## 4、L-系统分形(L System)
+### 代码：4_LSystem.R
+### 图片：Rplot_LSystem.png
+![LSystem](https://github.com/mydaisg/SuperFractalTheory/blob/main/Rplot_LSystem.png "LSystem")
