@@ -27,3 +27,9 @@ Super Fractal Theory  Machine Learning with R+Rust & AI（Web,CLI,API）
 ### 代码：5_BoxCounting.R
 ### 图片：Rplot_BoxCounting.png
 ![BoxCounting](https://github.com/mydaisg/SuperFractalTheory/blob/main/Rplot_BoxCounting.png "BoxCounting")
+
+
+## 6、曼德勃罗集 (Mandelbrot Set) 使用ggplot2绘制分形
+### 代码：1_MandelbrotSet_ggplot.R
+### 图片：Rplot_MandelbrotSet_ggplot2.png
+![曼德勃罗集 ggplot](https://github.com/mydaisg/SuperFractalTheory/blob/main/Rplot_MandelbrotSet_ggplot2.png "Mandelbrot Set ggplot")
