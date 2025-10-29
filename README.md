@@ -60,6 +60,9 @@ Super Fractal Theory  Machine Learning with R+Rust & AI（Web,CLI,API）
 ### 图片：Rplot_SierpinskiCarpet.png
 ![谢尔宾斯基地毯](https://github.com/mydaisg/SuperFractalTheory/blob/main/Rplot_SierpinskiCarpet.png "Sierpinski Carpet")
 
-
+## 12、康托尔集 (Cantor Set)
+### 代码：12_CantorSet.R
+### 图片：Rplot_CantorSet.png
+![康托尔集](https://github.com/mydaisg/SuperFractalTheory/blob/main/Rplot_CantorSet.png "Cantor Set")
 
 
