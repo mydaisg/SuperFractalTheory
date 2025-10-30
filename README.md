@@ -100,7 +100,7 @@ Super Fractal Theory  Machine Learning with R+Rust & AI（Web,CLI,API）
 ### 图片：Rplot_Terrain3D_DST.png
 ![3D Terrain](https://github.com/mydaisg/SuperFractalTheory/blob/main/Rplot_Terrain3D_DST.png "3D Terrain")
 
-## 20、地形生成（2D Terrain）使用ggplot2绘制2D地形图
+## 20、地形生成（2D Terrain）用ggplot2绘制2D地形图
 ### 代码：20_Terrain2D_ggplot.R
 ### 依赖：library(reshape2)
 ### 图片：Rplot_Terrain2D_ggplot.png
@@ -115,5 +115,27 @@ Super Fractal Theory  Machine Learning with R+Rust & AI（Web,CLI,API）
 ### 代码：22_Coastline.R
 ### 图片：Rplot_Coastline.png
 ![ Coastline](https://github.com/mydaisg/SuperFractalTheory/blob/main/Rplot_Coastline.png "Coastline")
+
+## 23、森林（Forest） 用分形噪声控制树木分布密度
+### 代码：23_Forest.R
+### 图片：Rplot_Forest.png
+![Forest](https://github.com/mydaisg/SuperFractalTheory/blob/main/Rplot_Forest.png "Forest")
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
