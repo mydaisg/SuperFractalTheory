@@ -126,12 +126,15 @@ Super Fractal Theory  Machine Learning with R+Rust & AI（Web,CLI,API）
 ### 图片：Rplot_Natural.png
 ![Natural](https://github.com/mydaisg/SuperFractalTheory/blob/main/Rplot_Natural.png "Natural")
 
-## 25、地形（TerrainPerlin）用ambient包生成Perlin噪声地形
+## 25、地形（Terrain Perlin）用ambient包生成Perlin噪声地形
 ### 代码：25_TerrainPerlin.R
 ### 图片：Rplot_TerrainPerlin.png
 ![TerrainPerlin](https://github.com/mydaisg/SuperFractalTheory/blob/main/Rplot_TerrainPerlin.png "TerrainPerlin")
 
-
+## 26、蕨类森林（Fern Forest)
+### 代码：26_FernForest.R
+### 图片：Rplot_FernForest.png
+![FernForest](https://github.com/mydaisg/SuperFractalTheory/blob/main/Rplot_FernForest.png "FernForest")
 
 
 
