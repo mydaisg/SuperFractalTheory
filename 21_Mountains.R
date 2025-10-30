@@ -4,7 +4,7 @@
 # Copyright (c) 2025 daisg
 # SPDX-License-Identifier: GPL-3
 # @brief/ Description
-# 山脉生成（Mountains）
+# 山脉生成（Mountains）多重八度噪声山脉
 generate_mountains <- function(width = 512, height = 512) {
   # 生成基础地形
   base_terrain <- diamond_square_terrain(129, 0.5)

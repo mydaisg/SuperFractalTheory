@@ -111,7 +111,9 @@ Super Fractal Theory  Machine Learning with R+Rust & AI（Web,CLI,API）
 ### 图片：Rplot_Mountains.png
 ![ Mountains](https://github.com/mydaisg/SuperFractalTheory/blob/main/Rplot_Mountains.png "Mountains")
 
-
-
+## 22、分形海岸（Coastline）中点位移法
+### 代码：22_Coastline.R
+### 图片：Rplot_Coastline.png
+![ Coastline](https://github.com/mydaisg/SuperFractalTheory/blob/main/Rplot_Coastline.png "Coastline")
 
 
