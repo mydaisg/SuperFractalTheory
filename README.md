@@ -89,6 +89,10 @@ Super Fractal Theory  Machine Learning with R+Rust & AI（Web,CLI,API）
 ### 图片：Rplot_CloudOutline.png
 ![CloudOutline](https://github.com/mydaisg/SuperFractalTheory/blob/main/Rplot_CloudOutline.png "CloudOutline")
 
+## 18、云彩分形（Cloud Outline）用二维分形噪声生成
+### 代码：18_CloudOutline_fractal_noise_2d.R
+### 图片：Rplot_CloudOutline_fractal_noise_2d.png
+![CloudOutline](https://github.com/mydaisg/SuperFractalTheory/blob/main/Rplot_CloudOutline_fractal_noise_2d.png "CloudOutline")
 
 
 
