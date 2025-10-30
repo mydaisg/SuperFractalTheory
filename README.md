@@ -136,7 +136,10 @@ Super Fractal Theory  Machine Learning with R+Rust & AI（Web,CLI,API）
 ### 图片：Rplot_FernForest.png
 ![FernForest](https://github.com/mydaisg/SuperFractalTheory/blob/main/Rplot_FernForest.png "FernForest")
 
-
+## 27、蕨类群（Fern Varieties)不同种类的蕨类植物
+### 代码：27_FernVarieties.R
+### 图片：Rplot_FernVarieties.png
+![FernVarieties](https://github.com/mydaisg/SuperFractalTheory/blob/main/Rplot_FernVarieties.png "FernVarieties")
 
 
 
