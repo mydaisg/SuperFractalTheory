@@ -121,8 +121,10 @@ Super Fractal Theory  Machine Learning with R+Rust & AI（Web,CLI,API）
 ### 图片：Rplot_Forest.png
 ![Forest](https://github.com/mydaisg/SuperFractalTheory/blob/main/Rplot_Forest.png "Forest")
 
-
-
+## 24、自然场景（Natural） 综合自然场景
+### 代码：24_Natural.R
+### 图片：Rplot_Natural.png
+![Natural](https://github.com/mydaisg/SuperFractalTheory/blob/main/Rplot_Natural.png "Natural")
 
 
 
