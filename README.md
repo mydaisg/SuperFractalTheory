@@ -28,7 +28,6 @@ Super Fractal Theory  Machine Learning with R+Rust & AI（Web,CLI,API）
 ### 图片：Rplot_BoxCounting.png
 ![BoxCounting](https://github.com/mydaisg/SuperFractalTheory/blob/main/Rplot_BoxCounting.png "BoxCounting")
 
-
 ## 6、曼德勃罗集 (Mandelbrot Set) 使用ggplot2绘制分形
 ### 代码：1_MandelbrotSet_ggplot.R
 ### 图片：Rplot_MandelbrotSet_ggplot2.png
@@ -76,17 +75,19 @@ Super Fractal Theory  Machine Learning with R+Rust & AI（Web,CLI,API）
 ![Dragon Curve](https://github.com/mydaisg/SuperFractalTheory/blob/main/Rplot_DragonCurve.png "Dragon Curve")
 
 ## 15、科赫雪花 (Koch Snowflake) 使用ggplot2绘制分形
-### 依赖：科赫曲线 (Koch Curve) 递归法
 ### 代码：15_KochSnowflake_ggplot.R
+### 关联：7、科赫曲线 (Koch Curve) 递归法
 ### 图片：Rplot_KochSnowflake_ggplot.png
 ![Koch Snowflake](https://github.com/mydaisg/SuperFractalTheory/blob/main/Rplot_KochSnowflake_ggplot.png "Koch Snowflake")
 
+## 16、分形维数比较（Fractal Dimensions）
+### 代码：16_FractalDimensions.R
+### 关联：Cantor Set、Koch Curve、Sierpinski Triangle
 
-
-
-
-
-
+## 17、云彩分形（Cloud Outline）用中点位移法生成云彩轮廓
+### 代码：17_CloudOutline.R
+### 图片：Rplot_CloudOutline.png
+![CloudOutline](https://github.com/mydaisg/SuperFractalTheory/blob/main/Rplot_CloudOutline.png "CloudOutline")
 
 
 
