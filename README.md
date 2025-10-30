@@ -94,9 +94,17 @@ Super Fractal Theory  Machine Learning with R+Rust & AI（Web,CLI,API）
 ### 图片：Rplot_CloudOutline_fractal_noise_2d.png
 ![CloudOutline](https://github.com/mydaisg/SuperFractalTheory/blob/main/Rplot_CloudOutline_fractal_noise_2d.png "CloudOutline")
 
+## 19、地形生成（3D Terrain）钻石方格地形(diamond square terrain)
+### 代码：19_Terrain3D_DST.R
+### 依赖：library(rgl) 注：某些区域安装此包易报错
+### 图片：Rplot_Terrain3D_DST.png
+![3D Terrain](https://github.com/mydaisg/SuperFractalTheory/blob/main/Rplot_Terrain3D_DST.png "3D Terrain")
 
-
-
+## 20、地形生成（2D Terrain）使用ggplot2绘制2D地形图
+### 代码：20_Terrain2D_ggplot.R
+### 依赖：library(reshape2)
+### 图片：Rplot_Terrain2D_ggplot.png
+![2D Terrain](https://github.com/mydaisg/SuperFractalTheory/blob/main/Rplot_Terrain2D_ggplot.png "2D Terrain")
 
 
 
