@@ -106,8 +106,10 @@ Super Fractal Theory  Machine Learning with R+Rust & AI（Web,CLI,API）
 ### 图片：Rplot_Terrain2D_ggplot.png
 ![2D Terrain](https://github.com/mydaisg/SuperFractalTheory/blob/main/Rplot_Terrain2D_ggplot.png "2D Terrain")
 
-
-
+## 21、山脉生成（Mountains）
+### 代码：21_Mountains.R
+### 图片：Rplot_Mountains.png
+![ Mountains](https://github.com/mydaisg/SuperFractalTheory/blob/main/Rplot_Mountains.png "Mountains")
 
 
 
