@@ -75,7 +75,11 @@ Super Fractal Theory  Machine Learning with R+Rust & AI（Web,CLI,API）
 ### 图片：Rplot_DragonCurve.png
 ![Dragon Curve](https://github.com/mydaisg/SuperFractalTheory/blob/main/Rplot_DragonCurve.png "Dragon Curve")
 
-
+## 15、科赫雪花 (Koch Snowflake) 使用ggplot2绘制分形
+### 依赖：科赫曲线 (Koch Curve) 递归法
+### 代码：15_KochSnowflake_ggplot.R
+### 图片：Rplot_KochSnowflake_ggplot.png
+![Koch Snowflake](https://github.com/mydaisg/SuperFractalTheory/blob/main/Rplot_KochSnowflake_ggplot.png "Koch Snowflake")
 
 
 
