@@ -141,9 +141,15 @@ Super Fractal Theory  Machine Learning with R+Rust & AI（Web,CLI,API）
 ### 图片：Rplot_FernVarieties.png
 ![FernVarieties](https://github.com/mydaisg/SuperFractalTheory/blob/main/Rplot_FernVarieties.png "FernVarieties")
 
+## 28、3D蕨类（Fern 3D)
+### 代码：28_Fern3D.R
+### 图片：Rplot_Fern3D.png
+![Fern3D](https://github.com/mydaisg/SuperFractalTheory/blob/main/Rplot_Fern3D.png "Fern3D")
 
-
-
+## 29、蕨类生长动画(Fern Growth Animation)
+### 代码：28_FernGrowthAnimation.R
+### 图片：Rplot_FernGrowthAnimation.png
+![FernGrowthAnimation](https://github.com/mydaisg/SuperFractalTheory/blob/main/Rplot_FernGrowthAnimation.png "FernGrowthAnimation")
 
 
 
